@@ -98,6 +98,13 @@ export const agents: Agent[] = [
     mission: "Missão alegria (somar na comemoração)",
     aliases: ["rodo", "rodolpho", "rodolfinho", "roda", "dodo"]
   },
+  {
+    id: "14",
+    name: "Marcos",
+    sector: "Conforto & Aconchego",
+    mission: "Trazer jogo de cama",
+    aliases: ["marc", "marquinhos", "marcão", "marco"]
+  },
 ];
 
 // Normalize text for comparison (remove accents and lowercase)
