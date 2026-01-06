@@ -72,6 +72,11 @@ export function HeroScreen({ onStart }: HeroScreenProps) {
           className="mb-8"
         >
           <div className="card-classified rounded-2xl p-5 border-glow">
+            <div className="flex items-center justify-center gap-2 mb-3">
+              <span className="text-sm bg-primary/20 text-primary font-bold px-3 py-1 rounded-full">
+                📅 18/01/2026
+              </span>
+            </div>
             <div className="flex items-center justify-center gap-3 mb-3">
               <span className="text-3xl">🏠</span>
               <span className="text-2xl text-primary">+</span>
