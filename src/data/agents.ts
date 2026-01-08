@@ -105,6 +105,13 @@ export const agents: Agent[] = [
     mission: "Trazer jogo de cama",
     aliases: ["marc", "marquinhos", "marcão", "marco"]
   },
+  {
+    id: "15",
+    name: "Viviane",
+    sector: "Decoração de Sala",
+    mission: "Enfeites para sala",
+    aliases: ["vivi", "vi", "vivian", "vivianne", "viviana", "viv"]
+  },
 ];
 
 // Normalize text for comparison (remove accents and lowercase)
